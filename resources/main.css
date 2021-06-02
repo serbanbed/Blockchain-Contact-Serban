@@ -201,4 +201,20 @@ label{
 position: relative;
 text-transform: uppercase;
 color: black;
+margin-left: 45%;
+margin-top: 16%;
+}
+
+.footer-wrapp h2 {
+font-size: 15px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(19, 105, 232);
+}
+
+.footer-wrapp h3{
+    font-size: 12px;
+    font-family: cursive;
+    color: rgb(20, 205, 230);
+    margin-top: -13px;
+    margin-left: 2%;
 }
