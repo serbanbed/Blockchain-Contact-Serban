@@ -197,6 +197,12 @@ label{
     margin-left: -15%;
 }
 
+.button-wrapper span:last-child{
+    font-weight: bold;
+    color: blue;
+    font-size: 15px;
+}
+
 .footer-wrapp {
 position: relative;
 text-transform: uppercase;
