@@ -12,6 +12,7 @@ html, body{
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
+    /* nu ajung 30% pentru cat continut ai. atasez un recording sa vezi cum vad eu. sunt elemente care raman in afara, not ok */
     height: 30%;
     width: 70%;
     margin: auto;
@@ -104,6 +105,7 @@ p {
 .firstname i{
     position: absolute;
     top: 60px;
+    /* mare atentie aici, iti atasez screenshot sa vezi efectul la mine a ceea ce probabil la tine se vedea ok */
     left: 33%;
 }
 .firstname input{
